@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/hamzaktk18/khattakm_parstagram/blob/master/khattakm_parstagram2.gif' title='Video Walkthrough - khattakm_parstagram2.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/hamzaktk18/khattakm_parstagram/blob/master/khattakm_parstagram_2.gif' title='Video Walkthrough - khattakm_parstagram_2.gif' width='' alt='Video Walkthrough' />
 
 
 ## Notes
